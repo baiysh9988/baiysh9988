@@ -24,7 +24,7 @@
 ### Проекты и портфолио
 
 *   Based network
-*   Advanced network
 *   Based network security
+*   Advanced network
 *   Advanced network security
 *   FIREWALL, IDS/IPS
