@@ -26,5 +26,6 @@
 *   Based network
 *   Based network security
 *   Advanced network
-*   Advanced network security
+*   Advanced L2 security and based L3 security
+*   Advanced L3 security
 *   FIREWALL, IDS/IPS
