@@ -20,6 +20,7 @@
 *   Network security
 *   Windows/Linux for network services
 *   FIREWALL, IDS/IPS
+*   Python scripts
 
 ### Проекты и портфолио
 
