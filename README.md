@@ -25,7 +25,7 @@
 ### Проекты и портфолио
 
 *   <a href="https://github.com/baiysh9988/basic-network">Based network</a>
-*   Based network security
+*   <a href="https://github.com/baiysh9988/based-network-security/tree/main">Based network security</a>
 *   Advanced network
 *   Advanced L2 security and based L3 security
 *   Advanced L3 security
