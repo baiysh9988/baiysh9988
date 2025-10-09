@@ -10,11 +10,6 @@
    📫: <a href='mailto:kubanychbekuulubaiysh@gmail.com'>kubanychbekuulubaiysh@gmail.com</a>
 </p>
 
-
-### Качества
-*   Стрессоустойчивость
-*   Целеустремлённость
-
 ## 🛠 Технические навыки
 *   Networks
 *   Network security
