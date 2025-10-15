@@ -13,6 +13,7 @@
 *   Network security(Port Security, Dynamic ARP Inspection, DHCP Snooping, IP Source Guard, BPDU Guard, PortFast, Storm Control, Access control, DMZ, Zone-Based Firewall, Private Vlan, VPN)
 *   Windows/Linux for network services(DHCP, DNS, NTP, Syslog, RADIUS, Active Directory)
 *   Python scripts
+*   SQL basics
 *   FIREWALL, IDS/IPS, WAF(SOON)
 
 ### Проекты и портфолио
