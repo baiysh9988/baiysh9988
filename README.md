@@ -21,7 +21,6 @@
 
 *   <a href="https://github.com/baiysh9988/basic-network">Based network</a>
 *   <a href="https://github.com/baiysh9988/based-network-security/tree/main">Based network security</a>
-*   Advanced network
-*   Advanced L2 security and based L3 security
-*   Advanced L3 security
-*   FIREWALL, IDS/IPS
+*   Advanced L2 security and based L3 security(SOON)
+*   Advanced L3 security(SOON)
+*   FIREWALL, IDS/IPS(SOON)
