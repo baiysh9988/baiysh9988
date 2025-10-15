@@ -1,8 +1,5 @@
 # Hi, I'm Baiysh 👋
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
    <a href="https://t.me/baiysh9988">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
@@ -11,11 +8,12 @@
 </p>
 
 ## 🛠 Технические навыки
-*   Networks
-*   Network security
-*   Windows/Linux for network services
-*   FIREWALL, IDS/IPS
+*   Cybersecurity basics(CIA, AAA, Security Policy, Zero Trust, Kill Chain)
+*   Networks(TCP/IP, NAT, VLAN, ACL, DNS, DHCP, IPsec, GRE, VRF, LACP, PAGP, STP, RSTP, MSTP, OSPF, EIGRP, Policy-based Routing)
+*   Network security(Port Security, Dynamic ARP Inspection, DHCP Snooping, IP Source Guard, BPDU Guard, PortFast, Storm Control, Access control, DMZ, Zone-Based Firewall, Private Vlan, VPN)
+*   Windows/Linux for network services(DHCP, DNS, NTP, Syslog, RADIUS, Active Directory)
 *   Python scripts
+*   FIREWALL, IDS/IPS, WAF(SOON)
 
 ### Проекты и портфолио
 
